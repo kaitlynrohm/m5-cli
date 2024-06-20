@@ -19,5 +19,12 @@
     "start_price": 500,
     "reserve_price": 650,
     "sold": 0
+  },
+  {
+    "title": "Incredible cruise",
+    "description": "A cruise around New Zealand. It's perfect for anyone who enjoys travelling and seeing new places. This cruise is for two people and seven days. With a whole cabin to yourself it truly is great.",
+    "start_price": 3000,
+    "reserve_price": 4500,
+    "sold": 0
   }
 ]
