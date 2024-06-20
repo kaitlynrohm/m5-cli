@@ -8,7 +8,7 @@ const seedDataIntoDb = async () => {
   try {
     await AuctionItem.deleteMany();
     await AuctionItem.insertMany(seedData);
-    process.exit(1);
+    process.exit(0);
   } catch (err) {
     console.log("Error seeding data", err);
     process.exit(1);

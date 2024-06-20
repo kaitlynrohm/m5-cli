@@ -9,5 +9,12 @@ yargs
       require("./commands/seed");
     },
   })
+  .command({
+    command: "delete",
+    describe: "Delete item from the database",
+    handler: () => {
+      require("./commands/delete.js");
+    },
+  })
   .demandCommand(1, "You need to specify a command to run")
   .help().argv;
