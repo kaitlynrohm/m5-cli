@@ -1,30 +1,79 @@
 [
   {
-    "title": "Pyramid",
-    "description": "One of the great pyramids shrunk down to fit in your pocket.",
-    "start_price": 300,
-    "reserve_price": 450,
+    "title": "PORCELAIN JEWELLERY BOX",
+    "description": "SERVES PORCELAIN JEWELLERY BOX, hand painted with scene of lovers along with a Serves egg also hand painted with scene of lovers on a cobalt blue ground with gilt highlights box 20cm L egg 18cm L",
+    "start_price": 200,
+    "reserve_price": 300,
     "sold": 0
   },
   {
-    "title": "The great wall of China",
-    "description": "The great wall of China. This lovely wall has been sized down to fit your house.",
-    "start_price": 200,
-    "reserve_price": 350,
+    "title": "BOHEMIAN GLASS PINK AND INDIGO CENTREPIECE BOWL",
+    "description": "A BOHEMIAN GLASS PINK AND INDIGO CENTREPIECE BOWL, in the form of a stylised leaf, flared edges, 10cm high, 32cm long, together with a Murano orange glass pentagonal bowl, with a flared bowl and a twisted body, 11cm high, 23cm diameter",
+    "start_price": 50,
+    "reserve_price": 100,
     "sold": 1
   },
   {
-    "title": "A guitar",
-    "description": "It's a guitar. That's it. Just a normal electric guitar.",
-    "start_price": 500,
-    "reserve_price": 650,
+    "title": "A PAIR OF ITALIAN STYLE DECANTERS",
+    "description": "A PAIR OF ITALIAN STYLE DECANTERS, of conical form, one in green, the other in amber, each measuring 50cm high.",
+    "start_price": 50,
+    "reserve_price": 100,
     "sold": 0
   },
   {
-    "title": "Incredible cruise",
-    "description": "A cruise around New Zealand. It's perfect for anyone who enjoys travelling and seeing new places. This cruise is for two people and seven days. With a whole cabin to yourself it truly is great.",
-    "start_price": 3000,
-    "reserve_price": 4500,
+    "title": "MURANO STYLE RUBY GLASS VASE",
+    "description": "A MURANO STYLE RUBY GLASS VASE, late 20th century, hand blown, with a flared top, lobed body, 30cm high",
+    "start_price": 50,
+    "reserve_price": 100,
+    "sold": 0
+  },
+  {
+    "title": "MURANO GLASS VASE",
+    "description": "A MURANO GLASS VASE, late 20th century, in blue and green tone, waisted form with a lobed body, 31cm high",
+    "start_price": 50,
+    "reserve_price": 100,
+    "sold": 0
+  },
+  {
+    "title": "ELEPHANT MASK",
+    "description": "AN ELEPHANT MASK, decorative elephant mask to put on your wall.",
+    "start_price": 500,
+    "reserve_price": 700,
+    "sold": 1
+  },
+  {
+    "title": "HEREND BREAKFAST SERVICE",
+    "description": "HEREND BREAKFAST SERVICE, tete a tete tea service comprising teapot, sugar bowl, milk jug and two cups and saucers",
+    "start_price": 50,
+    "reserve_price": 100,
+    "sold": 0
+  },
+  {
+    "title": "HOOPER ARMCHAIRS",
+    "description": "HOOPER ARMCHAIRS, a pair, 1960s style, with silver grey upholstery and outswept brass capped legs, together with a pair of purple velvet cushions by India Jane, 81cm W.",
+    "start_price": 100,
+    "reserve_price": 150,
+    "sold": 0
+  },
+  {
+    "title": "WALL MIRROR",
+    "description": "WALL MIRROR, red painted frame, 205cm x 113.5cm approx.",
+    "start_price": 50,
+    "reserve_price": 100,
+    "sold": 0
+  },
+  {
+    "title": "LOW TABLE",
+    "description": "LOW TABLE, Bespoke Pyramid design glass top, 80cm x 80cm x 51cm.",
+    "start_price": 50,
+    "reserve_price": 100,
+    "sold": 1
+  },
+  {
+    "title": "G PLAN DINING TABLE",
+    "description": "G PLAN DINING TABLE, extendable design, 209cm x 11cm x 73cm at largest",
+    "start_price": 30,
+    "reserve_price": 70,
     "sold": 0
   }
 ]
